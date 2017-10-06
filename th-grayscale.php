@@ -29,6 +29,7 @@ function thbw_hook_css() {
         filter: gray;
         filter: grayscale(100%);
     }
+    .primary-navigation,
     #navigation ul ul,
     #navigation ul .current-menu-item a {
         background-color: #000 !important;
