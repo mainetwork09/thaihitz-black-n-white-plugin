@@ -42,7 +42,8 @@ function thbw_hook_css() {
         filter: grayscale(100%);
     }
     
-    a, span {
+    .post-single-content a, 
+    .post-single-content span {
         -moz-filter: grayscale(100%);
         -webkit-filter: grayscale(100%);
         filter: gray;
